@@ -19,6 +19,17 @@ and open the template in the editor.
                print "Hola\n";
            }
        }
+       
+       class Persona{
+             public $altura;
+             public $peso;
+             
+             
+            public function __construct($altura, $peso){
+                  $this->altura = $altura;
+                  $this->peso = $peso;
+            }
+       }
         ?>
     </body>
 </html>
