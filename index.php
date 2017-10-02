@@ -30,6 +30,10 @@ and open the template in the editor.
                   $this->peso = $peso;
             }
        }
+       
+       class fantasma{
+             
+       }
         ?>
     </body>
 </html>
