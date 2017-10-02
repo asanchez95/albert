@@ -12,6 +12,13 @@ and open the template in the editor.
     <body>
         <?php
         echo"Bienvenido amigo";
+        
+       
+       class hola{
+           function __construct() {
+               print "Hola\n";
+           }
+       }
         ?>
     </body>
 </html>
