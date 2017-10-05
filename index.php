@@ -36,13 +36,7 @@ and open the template in the editor.
           public $altura;
           public $a=11;
           public $b;
-          public function __construct($suma, $a, $b) {
-              
-              $this->suma=$suma;
-              $this->a =$a;
-              $this->b =$b; 
-              
-          }
+          
           
        }
         ?>
