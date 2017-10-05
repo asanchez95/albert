@@ -33,6 +33,14 @@ and open the template in the editor.
        
        class fantasma{
              
+          public $altura;
+          public $a;
+          public $b;
+          public function __construct($suma, $a, $b) {
+              
+              $this->suma=$suma;
+              $this->peso =$peso;
+          }
        }
         ?>
     </body>
